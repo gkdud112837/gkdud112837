@@ -1,16 +1,18 @@
-## Hi there 👋
-[![hayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkdud112837&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**gkdud112837/gkdud112837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 배우고 성장하는 개발자가 되겠습니다.
 
-Here are some ideas to get you started:
+### Experience
+- 금오공과대학교 신소재공학부 졸업 2019.02 - 2023.08
+- 삼성청년SW·AI아카데미(SSAFY) 14기 2025.07 - 진행중
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### project
+- None
+
+---
+### tech stack
+#### Backend
+- python
+  - Django
+#### Frontend
+- HTML/CSS
+- JavaScript
+  - Vue.js 
